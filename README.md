@@ -1,6 +1,6 @@
 # Food Delivery Market Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an end-to-end **data integration and analysis** of a food delivery platform using data from multiple real-world sources and formats. The goal is to combine heterogeneous datasets into a single analytical view and extract meaningful business insights related to orders, users, restaurants, revenue, and customer behavior.
 
@@ -8,7 +8,7 @@ The analysis focuses on understanding **order trends, user behavior, restaurant 
 
 ---
 
-## 📂 Datasets Used
+##  Datasets Used
 
 The project integrates three different datasets, each representing a real-world system:
 
@@ -20,7 +20,7 @@ The project integrates three different datasets, each representing a real-world 
 
 ---
 
-## 🔗 Data Integration (ETL Process)
+##  Data Integration (ETL Process)
 
 ### Step 1: Load Data
 
@@ -51,7 +51,7 @@ final_food_delivery_dataset.csv
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### 1️⃣ Order Trends Over Time
 
@@ -83,7 +83,7 @@ final_food_delivery_dataset.csv
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * **Python**
 * **Pandas** – data manipulation and joins
@@ -92,7 +92,7 @@ final_food_delivery_dataset.csv
 
 ---
 
-## 📈 Key Outcomes
+##  Key Outcomes
 
 * Successfully integrated multi-format datasets into a single analytical view
 * Demonstrated real-world ETL and data wrangling skills
@@ -100,7 +100,7 @@ final_food_delivery_dataset.csv
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── orders.csv
@@ -113,7 +113,7 @@ final_food_delivery_dataset.csv
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add predictive modeling for demand forecasting
 * Perform customer segmentation
@@ -122,13 +122,13 @@ final_food_delivery_dataset.csv
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is created for **learning and demonstration purposes only**. The datasets are simulated and do not represent real customer or business data.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Om Shah**
 
